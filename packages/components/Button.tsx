@@ -55,8 +55,8 @@ export const Button = ({
       {...props}
       onClick={increment}
     >
-      {children}
       {count}
+      {children}
     </button>
   );
 };
