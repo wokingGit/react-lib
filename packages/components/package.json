@@ -1,0 +1,15 @@
+{
+  "name": "@wyc/components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "module": "index.ts",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wyc/hooks": "workspace:^",
+    "class-variance-authority": "^0.7.0"
+  }
+}
