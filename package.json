@@ -1,7 +1,7 @@
 {
   "name": "react-lib",
   "private": false,
-  "version": "independent",
+  "version": "0.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
